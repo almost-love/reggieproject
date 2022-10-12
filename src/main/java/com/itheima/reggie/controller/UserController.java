@@ -53,9 +53,6 @@ public class UserController {
     }
 
 
-//git测试提交
-
-
     /**
      * 移动端用户登录.
      * @param map
